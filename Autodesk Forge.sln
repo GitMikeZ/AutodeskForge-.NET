@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "forgesample", "Autodesk Forge\forgesample.csproj", "{3498D2D9-91F0-47D2-9345-749CCA0E68DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3498D2D9-91F0-47D2-9345-749CCA0E68DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3498D2D9-91F0-47D2-9345-749CCA0E68DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3498D2D9-91F0-47D2-9345-749CCA0E68DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3498D2D9-91F0-47D2-9345-749CCA0E68DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C223250-A3F1-4754-8888-A9C46E3DA7E7}
+	EndGlobalSection
+EndGlobal
